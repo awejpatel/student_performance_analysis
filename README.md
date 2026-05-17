@@ -6,7 +6,7 @@ A machine learning pipeline that predicts student academic outcomes (Pass/Fail) 
 Overview
 Project Structure
 Dataset
-Features
+Features  
 Models
 Bug Fixes
 Results
